@@ -21,5 +21,11 @@
         <input type="submit" value="Submit">
     </div>
 </form>
+<br>
+<form action="registrationPanel.php">
+    <div>
+        <input type="submit" value="Register">
+    </div>
+</form>
 <?php include_once 'footer.php';?>
 </body>
